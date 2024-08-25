@@ -1,0 +1,2 @@
+Prefix plugins/PennSeq/example/
+Plugin PennSeq inputfile ECE.tsv outputfile output.tsv
